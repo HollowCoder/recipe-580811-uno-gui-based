@@ -1,5 +1,4 @@
 import os, sys
-from BadInputError import BadInputError #Make error handler(?)
 from ComputerPlayer import ComputerPlayer
 from GameSettings import GameSettings
 from Match import Match
